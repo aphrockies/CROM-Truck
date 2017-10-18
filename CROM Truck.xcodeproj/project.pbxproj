@@ -14,6 +14,7 @@
 		C57775AE1F904A57008D6A8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C57775AD1F904A57008D6A8D /* Assets.xcassets */; };
 		C57775B11F904A57008D6A8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C57775AF1F904A57008D6A8D /* LaunchScreen.storyboard */; };
 		C57775DC1F966CFA008D6A8D /* main.scn in Resources */ = {isa = PBXBuildFile; fileRef = C57775DB1F966CFA008D6A8D /* main.scn */; };
+		C577763C1F97C164008D6A8D /* Notes in Resources */ = {isa = PBXBuildFile; fileRef = C577763B1F97C164008D6A8D /* Notes */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C57775B01F904A57008D6A8D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C57775B21F904A57008D6A8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C57775DB1F966CFA008D6A8D /* main.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = main.scn; path = art.scnassets/main.scn; sourceTree = "<group>"; };
+		C577763B1F97C164008D6A8D /* Notes */ = {isa = PBXFileReference; lastKnownFileType = text; path = Notes; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C57775AF1F904A57008D6A8D /* LaunchScreen.storyboard */,
 				C57775B21F904A57008D6A8D /* Info.plist */,
 				C57775DB1F966CFA008D6A8D /* main.scn */,
+				C577763B1F97C164008D6A8D /* Notes */,
 			);
 			path = "CROM Truck";
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C577763C1F97C164008D6A8D /* Notes in Resources */,
 				C57775DC1F966CFA008D6A8D /* main.scn in Resources */,
 				C57775A71F904A57008D6A8D /* art.scnassets in Resources */,
 				C57775B11F904A57008D6A8D /* LaunchScreen.storyboard in Resources */,
